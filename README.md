@@ -1,6 +1,6 @@
 # Capstone project: Catch the pink flamingo
 
-![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/title.png)
+![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/title.PNG)
 
 ## Quiz: 
 ### week1 - Data Exploration with Power BI 
