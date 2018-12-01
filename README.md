@@ -1,4 +1,4 @@
-![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/title.png)
+![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/pf.png)
 
 ### week1 - Data Exploration with Power BI 
 PowerBI can be downloaded for free in the windows 10 store
