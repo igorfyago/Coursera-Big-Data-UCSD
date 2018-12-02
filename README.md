@@ -11,3 +11,8 @@ PowerBI can be downloaded for free in the windows 10 store
 Predicting users that spend on average more than 5 dollars "HighRollers"
 
 ![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/w2.png)
+
+### week3 - K-Means Clustering with PySpark MLlib
+Recommend two or more actions Eglence Inc. can take that will have impact on their revenue
+
+![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/w3.png)

@@ -1,0 +1,4 @@
+[array([ 27.13063063,  23.1981982 ]), array([  39.43434343,  111.78787879])]
+First number is the # of ad-clicks and second number is revenue per user
+Compare the 1st number of each cluster to see how differently users behave when it comes to clicking ads
+Compare the 2nd number of each cluster to see how differently users behave when it comes to buying stuff
