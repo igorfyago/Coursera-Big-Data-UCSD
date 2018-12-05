@@ -16,3 +16,8 @@ Predicting users who are like to spend on average more than 5 dollars "HighRolle
 Recommend two or more actions Eglence Inc. can take that will have impact on their revenue
 
 ![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/w3.png)
+
+### 4) Graph Analytics With Chat Data Using Neo4j
+You will be guided in performing some analysis on graph networks of chat data
+
+![alt text](https://github.com/igorfyago/Coursera-Big-Data-UCSD/blob/master/prt-scr/w4.png)
